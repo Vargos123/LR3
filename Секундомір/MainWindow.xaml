@@ -1,0 +1,17 @@
+﻿<Window x:Class="Timer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Timer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="DeepPink">
+        <TextBlock FontSize="50" Margin="118,0,257,246" RenderTransformOrigin="1.443,0.195">Timer</TextBlock>
+        <TextBlock x:Name="mainblock" FontSize="70" Margin="51,46,411,286"></TextBlock>
+        <Button x:Name="star" Margin="48,153,625,214" Background="Gold" Content="Start" FontSize="30" Click="start_Click" ></Button>
+        <Button x:Name="stop" Margin="180,153,492,214" Background="Gold" Content="Stop" FontSize="30" Click="stop_Click" ></Button>
+        <Button x:Name="reset" Margin="51,222,490,146" Background="Gold" Content="Reset" FontSize="30" Click="reset_Click" ></Button>
+        <ListBox x:Name="time" Height="232" VerticalAlignment="Top" Width="434" Margin="344,56,22,0"/>
+    </Grid>
+</Window>

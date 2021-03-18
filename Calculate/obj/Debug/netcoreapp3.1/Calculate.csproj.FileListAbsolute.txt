@@ -1,0 +1,13 @@
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\Vasyl\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.csprojAssemblyReference.cache
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\Vasyl\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache
