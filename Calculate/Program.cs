@@ -21,7 +21,7 @@ namespace Calculate
         public void Div(int x, int y)
         {
             if (y == 0)
-                Console.WriteLine("На 0 делить нельзя!");
+                Console.WriteLine("На 0 делить нельзя!!");
             else
                 Result = x / y;
         }
